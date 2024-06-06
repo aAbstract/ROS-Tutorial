@@ -1,4 +1,5 @@
-# ROS 1 Quick Starter Guide
+# ROS Tutorial
+ROS 1 Quick Starter Guide
 
 ## Outline
 1. Part 1 - Introduction
