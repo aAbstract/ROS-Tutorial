@@ -2,7 +2,7 @@
 ROS 1 Quick Starter Guide
 
 ## Outline
-1. Part 1 - Introduction
+1. [Part 1 - Introduction](./part_1_introduction/README.md)
 
 2. Part 2 - Getting Started - TODO
 
