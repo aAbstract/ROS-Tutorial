@@ -18,4 +18,4 @@ ROS 1 Quick Starter Guide
 9. Part 9 - AI Autopilot - TODO
 
 ### Bonus
-- Part 10 - Adding Control Panel UI
+- Adding Control Panel UI
