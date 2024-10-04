@@ -1,6 +1,6 @@
 # ROS Tutorial Part 2 - Getting Started
 
-### Install Prequiesties
+### 2.1 Install Prequiesties
 
 **Operating System:**  
 - There are no constraints on the OS as long as docker exists but **Ubuntu LTS** is recommended  
@@ -33,7 +33,7 @@ $ sudo apt install python3-rospy
 - If you want to manually install ROS on your system, keep in mind that ROS only works on Ubuntu 20.04 and it reached end of life
 - In this guide we will be using the official ROS [docker image](https://hub.docker.com/_/ros/)
 
-### Starting ROS Master
+### 2.2 Starting ROS Master
 - Create an empty folder
 ```bash
 $ mkdir minesweeper_ros_backend
@@ -73,7 +73,7 @@ $ docker ps -a
 # 9a4973a2abdb   ros:noetic-ros-base-focal   "/ros_entrypoint.sh …"   About a minute ago   Up About a minute             minesweeper-ros-backend-ros-1
 ```
 
-### ROS Hello World - ROS CLI
+### 2.3 ROS Hello World - ROS CLI
 - Connect to ROS master container shell
 ```bash
 $ docker exec -it minesweeper-ros-backend-ros-1 /bin/bash
