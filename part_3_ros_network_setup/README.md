@@ -109,7 +109,7 @@ if __name__ == '__main__':
 - To start sensor_tx_node first make sure ROS master is running on **MCP** machine
 - Then run the script using the following command
 ```bash
-$ python ./sensor_tx.py
+$ python ./basic_ros_app_1/sensor_tx.py
 
 # Initializing ROS Node sensor_rx_node...
 # Initializing ROS Node sensor_rx_node...OK
