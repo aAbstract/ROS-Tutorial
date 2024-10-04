@@ -18,7 +18,7 @@ in this setup one or more co-pilots can assist the main pilot by monitoring the 
 - To simulate the ROS network shown in the diagram, I will use my PC as the **MCP** machine and  
 I will create a KVM virtual machine and install **Ubuntu Server LTS** on it  
 this KVM instance will be the **RCS** machine
-- After finished this setup here is my network config
+- After finishing this setup here is my network config
 ```bash
 ubuntu@mcp:~$ ifconfig virbr0
 
