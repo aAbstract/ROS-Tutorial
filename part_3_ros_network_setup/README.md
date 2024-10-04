@@ -35,7 +35,7 @@ ubuntu@rcs:~$ ifconfig enp1s0
 ### 3.3 Starting MCP ROS Master
 - ROS master is recommended to run the **MCP** machine  
 because it's stronger and can handle the communication overhead
-- On **MCP** machine run the ROS master docker compose script refer to [Starting ROS Master](../part_2_getting_started/README.md#starting-ros-master)
+- On **MCP** machine run the ROS master docker compose script refer to [Starting ROS Master](../part_2_getting_started/README.md#22-starting-ros-master)
 - Make sure to make **ROS_MASTER_URI** and **ROS_IP** docker environment variables point to **MCP** machine ip
 - For example in this case our docker-compose script will look like this
 ```yml
